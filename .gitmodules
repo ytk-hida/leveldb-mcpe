@@ -3,4 +3,4 @@
 	url = https://github.com/Mojang/leveldb-mcpe.git
 [submodule "Projects/zlib"]
 	path = Projects/zlib
-	url = https://github.com/jocopa3/zlib.git
+	url = https://github.com/madler/zlib.git
